@@ -1,0 +1,13 @@
+D:\Community\Community\bin\Debug\Community.exe.config
+D:\Community\Community\bin\Debug\Community.exe
+D:\Community\Community\bin\Debug\Community.pdb
+D:\Community\Community\obj\Debug\Community.csprojAssemblyReference.cache
+D:\Community\Community\obj\Debug\Community.Card.resources
+D:\Community\Community\obj\Debug\Community.Homepage.resources
+D:\Community\Community\obj\Debug\Community.Login.resources
+D:\Community\Community\obj\Debug\Community.Properties.Resources.resources
+D:\Community\Community\obj\Debug\Community.SignUp.resources
+D:\Community\Community\obj\Debug\Community.csproj.GenerateResource.cache
+D:\Community\Community\obj\Debug\Community.csproj.CoreCompileInputs.cache
+D:\Community\Community\obj\Debug\Community.exe
+D:\Community\Community\obj\Debug\Community.pdb
